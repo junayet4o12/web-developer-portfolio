@@ -278,9 +278,11 @@ nav a {
     border-radius: 5px;
     box-shadow: 2px 2px 5px black;
     padding-left: 10px ;
+    border: none;
 }
 
 .input1 {
+    border: none;
     width: 400px;
     height: 180px;
     padding: 30px 10px;
