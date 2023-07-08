@@ -114,3 +114,23 @@ nav a {
     flex-shrink: 0;
     margin: auto;
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{text-align: center;}
+.info-description{
+    color: #2c2a2a;
+
+
+font-size: 20px;
+
+font-weight: bold;
+
+}
+.info-title{
+    color: #757575;
+
+font-weight: bold;
+
+}
