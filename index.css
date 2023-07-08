@@ -144,7 +144,7 @@ nav a {
 .what-i-do {
 
 
-    flex-shrink: 0;
+
     border-radius: 10px;
 
     margin: auto;
@@ -162,27 +162,127 @@ nav a {
     height: 377px;
     flex-shrink: 0;
     border-radius: 5px;
-background: #FFF;
-box-shadow: 5px 5px 30px black;
+    background: #FFF;
+    box-shadow: 5px 5px 30px black;
 }
-.logo-sizing{
+
+.logo-sizing {
     margin-top: 60px;
     margin-left: 30px;
 }
-.skill-description{padding: 0px 30px;
-    color:#757575;
-   
+
+.skill-description {
+    padding: 0px 30px;
+    color: #757575;
+
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    
+
 }
-.skill-title{
-    color:#181818;
 
-font-size: 20px;
+.skill-title {
+    color: #181818;
 
-font-weight: 700;
-padding-left: 30px;
+    font-size: 20px;
+
+    font-weight: 700;
+    padding-left: 30px;
+
+}
+
+.summery {
+    max-width: 1180px;
+    margin: auto;
+}
+
+.part {
+    display: flex;
+    justify-content: space-around;
+}
+
+.part-title {
+    color: #474747;
+
+    font-size: 30px;
+
+    font-weight: 700;
+
+}
+
+.part-title2 {
+    color: #474747;
+
+    font-size: 25px;
+
+    font-weight: 700;
+
+}
+
+.part-title3 {
+    color: #757575;
+
+    font-size: 20px;
+
+    font-weight: 700;
+
+}
+
+.parts3 {
+    width: 511px;
+}
+
+.part-description {
+    color: #757575;
+
+    font-size: 16px;
+
+    font-weight: 400;
+}
+
+.contact {
+    background-color: #FFF8F3;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact1 {
+    width: 562px;
+}
+
+.contact-title {
+    color: #181818;
+
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+}
+
+.contact-description {
+    color: #474747;
+
+    font-size: 16px;
+
+    font-weight: 400;
+
+}
+
+.input {
+    width: 400px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.input1 {
+    width: 400px;
+    height: 180px;
+
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+
 
 }
